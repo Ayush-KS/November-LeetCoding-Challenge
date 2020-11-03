@@ -12,3 +12,9 @@ Also, I will be changing the language I code in every week!
     > Recursion | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 2: [Insertion Sort List](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3517/)
+
+    > Insertion Sort | 
+    > Time: O(n^2) |
+    > Space: O(1) 
