@@ -18,3 +18,9 @@ Also, I will be changing the language I code in every week!
     > Insertion Sort | 
     > Time: O(n^2) |
     > Space: O(1) 
+    
+* Day 3: [Consecutive Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(1) 
