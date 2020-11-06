@@ -30,3 +30,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+            
+* Day 5: [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3520/)
+
+    > Ad-Hoc | 
+    > Time: O(n) |
+    > Space: O(1) 
