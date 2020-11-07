@@ -36,4 +36,9 @@ Also, I will be changing the language I code in every week!
     > Ad-Hoc | 
     > Time: O(n) |
     > Space: O(1) 
-    
+                
+* Day 6: [Find the Smallest Divisor Given a Threshold](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/)
+
+    > Binary Search | 
+    > Time: O(nlogn) |
+    > Space: O(1) 
