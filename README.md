@@ -42,3 +42,9 @@ Also, I will be changing the language I code in every week!
     > Binary Search | 
     > Time: O(nlogn) |
     > Space: O(1) 
+                    
+* Day 7: [Add Two Numbers II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n) 
