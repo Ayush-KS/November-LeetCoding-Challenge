@@ -48,3 +48,12 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n) |
     > Space: O(n) 
+    
+
+## Week 2: November 8th – November 14th [Python]
+
+* Day 8: [Binary Tree Tilt](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 
