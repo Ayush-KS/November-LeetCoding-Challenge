@@ -57,3 +57,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+
+* Day 9: [Maximum Difference Between Node and Ancestor](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 
