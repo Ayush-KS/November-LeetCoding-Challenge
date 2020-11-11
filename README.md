@@ -63,3 +63,9 @@ Also, I will be changing the language I code in every week!
     > DFS | 
     > Time: O(n) |
     > Space: O(n) 
+    
+* Day 10: [Flipping an Image](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/)
+
+    > Bitwise Manipulation | 
+    > Time: O(n^2) |
+    > Space: O(1) 
