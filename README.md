@@ -69,8 +69,20 @@ Also, I will be changing the language I code in every week!
     > Bitwise Manipulation | 
     > Time: O(n^2) |
     > Space: O(1) 
+
+* Day 11: [Valid Square](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)
+
+    > Math | 
+    > Time: O(1) |
+    > Space: O(1) 
     
-* Day 11: [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3527/)
+* Day 12: [Permutations II](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3528/)
+
+    > Backtracking | 
+    > Time: O(n!) |
+    > Space: O(n*n!) 
+    
+* Day 13: [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/)
 
     > Backtracking | 
     > Time: O(n!) |
