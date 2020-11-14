@@ -3,7 +3,6 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        
         def backtrack(curr, freq):
             if(len(curr) == len(nums)):
                 ans.append(list(curr))
