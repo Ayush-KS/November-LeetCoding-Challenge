@@ -84,6 +84,6 @@ Also, I will be changing the language I code in every week!
     
 * Day 13: [Populating Next Right Pointers in Each Node](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/)
 
-    > Backtracking | 
-    > Time: O(n!) |
-    > Space: O(n*n!) 
+    > BFS | 
+    > Time: O(n) |
+    > Space: O(n) 
