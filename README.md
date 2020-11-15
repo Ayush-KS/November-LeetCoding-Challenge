@@ -87,3 +87,9 @@ Also, I will be changing the language I code in every week!
     > BFS | 
     > Time: O(n) |
     > Space: O(n) 
+    
+* Day 14: [Poor Pigs](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/)
+
+    > Math | 
+    > Time: O(logn) |
+    > Space: O(1) 
