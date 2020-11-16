@@ -93,3 +93,12 @@ Also, I will be changing the language I code in every week!
     > Math | 
     > Time: O(logn) |
     > Space: O(1) 
+
+    
+## Week 3: November 15th – November 21st [Java]
+
+* Day 15: [Range Sum of BST](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3532/)
+
+    > DFS | 
+    > Time: O(n) |
+    > Space: O(n) 
