@@ -132,3 +132,9 @@ Also, I will be changing the language I code in every week!
     > Binary Search | 
     > Time: O(logn) |
     > Space: O(1) 
+                
+* Day 21: [Numbers At Most N Given Digit Set](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3538/)
+
+    > Math | 
+    > Time: O(logn) |
+    > Space: O(logn) 
