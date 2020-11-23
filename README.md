@@ -138,3 +138,12 @@ Also, I will be changing the language I code in every week!
     > Math | 
     > Time: O(logn) |
     > Space: O(logn) 
+    
+    
+## Week 4: November 22nd – November 28th [Misc.]
+
+* Day 22: [Unique Morse Code Words](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3540/)
+
+    > Implementation | 
+    > Time: O(n^2) |
+    > Space: O(n) 
