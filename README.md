@@ -147,3 +147,9 @@ Also, I will be changing the language I code in every week!
     > Implementation | 
     > Time: O(n^2) |
     > Space: O(n) 
+    
+* Day 23: [House Robber III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3541/)
+
+    > Dynamic Programming | 
+    > Time: O(n) |
+    > Space: O(n) 
