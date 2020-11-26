@@ -159,3 +159,9 @@ Also, I will be changing the language I code in every week!
     > Stack | 
     > Time: O(n) |
     > Space: O(n) 
+            
+* Day 25: [Smallest Integer Divisible by K](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/)
+
+    > Math | 
+    > Time: O(n) |
+    > Space: O(1) 
