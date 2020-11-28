@@ -166,8 +166,14 @@ Also, I will be changing the language I code in every week!
     > Time: O(n) |
     > Space: O(1) 
                 
-* Day 26: [Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/)
+* Day 26: [Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3544/)
 
     > Two Pointers | 
     > Time: O(n) |
     > Space: O(1) 
+       
+* Day 27: [Partition Equal Subset Sum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)
+
+    > Dynamic Programming | 
+    > Time: O(m*n) |
+    > Space: O(m*n) 
