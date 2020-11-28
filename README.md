@@ -165,3 +165,9 @@ Also, I will be changing the language I code in every week!
     > Math | 
     > Time: O(n) |
     > Space: O(1) 
+                
+* Day 26: [Longest Substring with At Least K Repeating Characters](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3543/)
+
+    > Two Pointers | 
+    > Time: O(n) |
+    > Space: O(1) 
