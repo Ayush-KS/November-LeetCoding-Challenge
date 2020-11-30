@@ -178,8 +178,17 @@ Also, I will be changing the language I code in every week!
     > Time: O(m*n) |
     > Space: O(m*n) 
            
-* Day 28: [Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3545/)
+* Day 28: [Sliding Window Maximum](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/)
 
     > Two Pointers | 
+    > Time: O(n) |
+    > Space: O(n) 
+
+
+## Week 5: November 29th – November 30th [C++]
+               
+* Day 29: [Jump Game III](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/)
+
+    > Dynamic Programming | 
     > Time: O(n) |
     > Space: O(n) 
