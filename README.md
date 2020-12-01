@@ -192,3 +192,9 @@ Also, I will be changing the language I code in every week!
     > Dynamic Programming | 
     > Time: O(n) |
     > Space: O(n) 
+                   
+* Day 30: [The Skyline Problem](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3549/)
+
+    > Range Compression | 
+    > Time: O(nlogn) |
+    > Space: O(n) 
